@@ -1,17 +1,25 @@
-# filett
+# Laundryin
 
-A new Flutter project.
+Aplikasi laundry sederhana menggunakan Flutter.
 
-## Getting Started
+## Tampilan Aplikasi
 
-This project is a starting point for a Flutter application.
+### 1. Beranda
+![Beranda](Screenshot-Beranda.png)
 
-A few resources to get you started if this is your first Flutter project:
+### 2. Pesanan
+![Pesanan](Screenshot-Pesanan.png)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### 3. Riwayat
+![Riwayat](Screenshot-Riwayat.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 4. Promo
+![Promo](Screenshot-Promo.png)
+
+### 5. Profil
+![Profil](Screenshot-Profil.png)
+
+## Teknologi
+
+- Flutter
+- Dart
